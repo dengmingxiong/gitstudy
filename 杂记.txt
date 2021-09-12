@@ -1,0 +1,19 @@
+MySQL root 账号密码  root (test)root
+ 网易云邮箱： heibaihui202108 
+	 密码：dmx18328381650
+ docker 账号： pandadengmingxiong  
+  密码：dmx18349661890
+
+
+Installation location
+-----------------------------------
+Stack location: D:\Program Files (x86)\DevDesktop
+
+Port settings
+-----------------------------------
+Apache HTTP:       8083
+Apache HTTPS:      8443
+MySQL:             33067
+
+ 语言包存放路径\drupal-8.9.1\sites\default\files\translations
+<!-- BEGIN OUTPUT from 'core/themes/bartik/templates/classy/navigation/menu.html.twig' -->
